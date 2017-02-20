@@ -3,7 +3,7 @@ Short tutorial exercise from Udacity on using classes to build object, along wit
 
 Using Python, and the turtle class.
 
-import turtle
+#import turtle
 
 def draw_square(some_turtle):
     for i in range (1, 5):
@@ -33,4 +33,4 @@ def draw_art():
     window.exitonclick()
 
 
-draw_art()
+#draw_art()
